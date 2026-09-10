@@ -1,7 +1,7 @@
-# Generalized Bond-Order Potential (GenBOP) for Accurate Interpolation and Robust Extrapolation of Potential Energy Surfaces
+# Body-Order Bond-Order Potential (BOBOP) for Robust Extrapolation of Potential Energy Surfaces
 
 ## Description
-PyTorch implementation of Generalized Bond-Order Potential
+PyTorch implementation of Body-Order Bond-Order Potential
 
 ## Requirement
 - Python 3.9 or later
