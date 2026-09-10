@@ -4,7 +4,7 @@
 PyTorch implementation of Body-Ordered Bond-Order Potential
 
 ## Requirement
-- Python 3.9 or later
+- Python 3.10 or later
 - Numpy
 - Ase (Atomic Simulation Environment)
 - PyTorch
