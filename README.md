@@ -9,3 +9,6 @@ PyTorch implementation of Body-Ordered Bond-Order Potential
 - Ase (Atomic Simulation Environment)
 - PyTorch
 - PyTorch Geometric
+
+## Installation
+Please refer to the ```setup.py``` for installation instructions.
